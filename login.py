@@ -5,3 +5,4 @@ def hello():
     print("heloo")
 hello()
 print(a+b)
+mum=1
